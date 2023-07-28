@@ -19,6 +19,10 @@ This Android app showcases a fully functional WebView displayed as a modal view,
 | Tamatem Plus Light Mode | Tamatem Plus Dark Mode | Tamatem Plus All Buttons |
 |:-----------------------:|:---------------------:|:-----------------------:|
 | ![Tamatem plus light mode](https://github.com/AbuBallan/AndroidWebViewModalAssignment/blob/main/docs/images/screenshot-tamatem-light-mode.png) | ![Tamatem plus dark mode](https://github.com/AbuBallan/AndroidWebViewModalAssignment/blob/main/docs/images/screenshot-tamatem-dark-mode.png) | ![Tamatem plus all buttons](https://github.com/AbuBallan/AndroidWebViewModalAssignment/blob/main/docs/images/screenshot-tamatem-all-buttons.png) |
+
+| Internet Connectivity |
+|:---------------------:|
+| ![Internet Connectivity](https://github.com/AbuBallan/AndroidWebViewModalAssignment/blob/main/docs/images/screenshot-internet-connectivity.png) |
 ---
 
 Thank you for checking out the Android WebView Modal App! If you have any questions or feedback, feel free to get in touch. Happy browsing! 🚀
