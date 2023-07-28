@@ -14,3 +14,8 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ModalWebBrowse"
 include ':app'
+include ':core:data'
+include ':core:designsystem'
+include ':core:web-viewer'
+include ':feature:tamatemplus'
+include ':feature:home'
